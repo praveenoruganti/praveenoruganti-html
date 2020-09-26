@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    <link rel="icon" href="img/praveenoruganti.ico" />   
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <meta charset="UTF-8">
+    <title>Praveen Oruganti HTML, CSS & JS Tutorial</title>
+</head>
+
+<body>
+    <!--
+        div - block level element
+        span - inline element
+    -->
+    <!--
+    h1 elements are often used for main headings, while h2 elements are generally used for subheadings.
+    There are also h3, h4, h5 and h6 elements to indicate different levels of subheadings.
+    -->
+    <!-- Global attributes in HTML
+      class
+      id
+      contentEditable
+      lang
+      dir -- values are ltr,rtr
+    -->
+    <!--
+        For Hyperlinks
+        <a href="https://praveenoruganti.github.io">Praveen Oruganti Profile</a>
+    -->
+    <a href="#footer">Jump to Bottom</a>
+    <h1 class="dogger-blue-text">Welcome to HTML & CSS Tutorial</h1>
+    <!--
+       For italics we can use 2 tags i.e..
+       <i> -- for visual italic
+       <em> -- for emphasis italic
+
+        For bold we can use 2 tags i.e..
+       <strong> -- Importance, seriousness, urgency
+        <b> -- bold
+    -->
+    <div>This is <a href="https://praveenorugantitech.blogspot.com" target="_blank"><strong>Praveen
+                Oruganti</strong></a> and i am going to <em>teach</em> the
+        below <i>technical topics.</i></div><br />
+
+    <!-- Lets see Lists now i.e.. Unordered list, Ordered list, Definition list-->
+    <div class="silver-background">
+        <b>
+            <!--
+          Unordered list with disc , circle , square , none
+        -->
+            <label>Frontend</label>
+            <ul style="list-style-type:square">
+                <li>HTML5</li>
+                <li>CSS</li>
+                <li>JS</li>
+                <li>React JS</li>
+            </ul>
+            <!--
+          Ordered List with 1 , A , a , i , I
+        -->
+            <label>Backend</label>
+            <ol type="i">
+                <li>Node/Express JS</li>
+                <li>Java</li>
+                <li>Apigee</li>
+                <li>PCF</li>
+                <li>Webservices</li>
+                <li>SQL</li>
+                <li>SpringBoot</li>
+            </ol>
+            <!--
+               Definition List
+            -->
+            <dl>
+                <dt>Definition List</dt>
+                <dd>A list of terms and their definitions/descriptions.</dd>
+                <dt>React JS</dt>
+                <dd>React JS tutorial.</dd>
+                <dt>Java</dt>
+                <dd>Java tutorial.</dd>
+            </dl>
+        </b>
+    </div><br />
+    <!--
+        Quotes are 2 types
+        <q> -- inline phrases
+        <blockquote> -- Block context
+    -->
+    <blockquote>
+        <p>Learning is an Art</p>
+        <cite>Praveen Oruganti, 2020</cite>
+    </blockquote>
+    <!--
+        <code> tag used to highlight any language code
+    -->
+    <!--
+        <br/> Line Break
+        <pre/> Preformatted text
+    -->
+    <pre>
+        This
+        is
+        Praveen
+        Oruganti
+    </pre>
+
+    <canvas id="myCanvas" width="200" height="100"></canvas><br/>
+    <svg width = "400" height = "150">
+    <rect width = "400" height = "150"
+            style = "fill:rgb(200,220,255);stroke-width:10;stroke:rgb(0,0,0)"/><br/>
+    <!--
+        <sub> Subscript below the line
+        <sup> Superscript - above the line
+    -->
+    H<sub>2</sub>O <br />
+    Square of 2: 2<sup>2</sup>
+    <!--
+        &nbsp; -- non breaking spaces
+    -->
+    <!--
+        <nav role="navigation"> -- Navigation
+    -->
+    <div class="vertical-center">
+        <form id="praveenoruganti-form" action="https://praveenorugantitech.blogspot.com"
+        target="_blank">
+            <input type="text" placeholder="Type your name" required><br />
+            <label for="male">
+                <input id="male" value="male" type="radio" name="Gender" checked>
+                Male
+            </label>
+            <label for="female">
+                <input id="female" value="female" type="radio" name="Gender">
+                Female
+            </label><br />
+            <label for="loving"><input id="loving" value="loving" type="checkbox"
+                name="personality" checked>
+                Loving</label>
+            <label for="caring"><input id="caring" value="caring" type="checkbox"
+                name="personality"> Lazy</label>
+            <label for="cautious"><input id="cautious" value="cautious" type="checkbox"
+                name="personality">
+                Energetic</label><br /><br />
+            <button type="submit">Submit</button>
+        </form>
+    </div><br />
+    <!--
+      p elements are the preferred element for paragraph text on websites.
+      p is short for "paragraph".
+    -->
+
+    <p class="dogger-blue-text"> Guys, We need to learn all the above Technical Topics to become a Full stack developer.
+    </p>
+    <label for="file">Learning progress:</label>
+    <progress id="file" value="32" max="100"> 32% </progress>
+
+    <hr>
+
+    <p title ="blog">Praveen Oruganti Technical blog.</p>
+    <!--
+     The HTML <article> element represents a self-contained composition in a document, page, application, or site, which
+     is intended to be independently distributable or reusable (e.g., in syndication).
+     Examples include: a forum post, a magazine or newspaper article, or a blog entry.
+
+    -->
+    <article class="forecast">
+        <h1>Weather forecast for Hyderabad</h1>
+        <article class="day-forecast">
+            <h2>08 Nov 2020</h2>
+            <p>Rain.</p>
+        </article>
+        <article class="day-forecast">
+            <h2>09 Nov 2020</h2>
+            <p>Periods of rain.</p>
+        </article>
+        <article class="day-forecast">
+            <h2>10 Nov 2020</h2>
+            <p>Heavy rain.</p>
+        </article>
+    </article>
+
+    <table>
+        <caption>Employees</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Gender</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Praveen Oruganti</td>
+                <td>Male</td>
+            </tr>
+            <tr>
+                <td>Anusha</td>
+                <td>Female</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!--
+        Images we use the below html tag
+        <img src="PraveenOruganti.jpg" alt="Praveen Oruganti" width=100 height=100/>
+        srcset attribute is used to show different images based on either view port width or image pixel width
+        sizes attribute list which size image to use based on which media query
+
+        <figure> For anything that appears as a figure, illustrating something
+        <figcaption> For demonstration of a concept which needs a caption
+    -->
+    <main>
+        <h4>Your's Praveen Oruganti Signing Off</h4>
+        <a href="https://praveenorugantitech.blogspot.com" target="_blank">
+            <figure>
+                <img class="medium-image thin-blue-border" src="img/PraveenOruganti.jpg" alt="Praveen Oruganti">
+        </a>
+        <figcaption><strong>Believe in yourself</strong></figcaption>
+        </figure>
+
+    </main><br />
+    <!--
+        For Audio
+        For one file we need to use below syntax
+        <audio controls loop autoplay src="sample.mp3"></audio>
+        For Multiple files we need to use below syntax
+        <audio controls loop autoplay>
+          <source  src="sample1.mp3" type="audio/mpeg">
+          <source  src="sample2.mp3" type="audio/mpeg">
+        </audio>
+    -->
+    <audio controls loop autoplay>
+        <source
+            src="http://s6.naasongs.download/tevw108bfw4xdel/Sensational%20Director%20S.S.%20Rajamouli%20Hits%20-%20(2015)/[iSongs.info]%2004%20-%20Dheera%20Dheera.mp3"
+            type="audio/mpeg">
+        <source
+            src="http://s6.naasongs.download/teje105pss5lobw/Darling%20Prabhas%20Telugu%20Hits%20-%20(2015)/[iSongs.info]%2009%20-%20Mirchi.mp3"
+            type="audio/mpeg">
+    </audio> <br/>
+
+    <!-- <video width="320" height="240" controls>
+        <source src="sample.mp4" type="video/mp4">
+    </video> -->
+
+    <iframe width="699" height="393" src="https://www.youtube.com/embed/oMwyxM9MZ50" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    <!--
+        <small> To convey something that has very little prominence
+    -->
+    <footer id="footer" class="red-text">
+        <small>@ Copyright Praveen Oruganti
+            <time datetime="2020-08-17">Aug 17,2020</time>
+        </small>
+    </footer>
+</body>
+
+</html>

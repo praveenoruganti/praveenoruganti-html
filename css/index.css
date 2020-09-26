@@ -1,0 +1,96 @@
+.forecast {
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat
+         white;
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+
+[type='radio'] {
+    margin: 20px 0px 20px 0px;
+}
+
+[type='checkbox'] {
+    margin: 10px 0px 15px 0px;
+}
+
+.thin-blue-border {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    /* border-radius: 10px; */
+    border-radius: 50%;
+}
+
+#praveenoruganti-form {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    margin: .2rem;   
+}
+
+.silver-background {
+    background-color: silver;
+    margin: .2rem;    
+    padding: 5px;
+   
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    background-color: blanchedalmond;
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.dogger-blue-text {
+    color: #1E90FF;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: Lobster;
+    color: #0FF;
+}
+
+.small-image {
+    width: 100px;
+    height: 100px;
+}
+
+.medium-image {
+    width: 200px;
+    height: 200px;
+}
+
+.vertical-center {
+    text-align: center;
+}
+
+.red-text {
+    color: #F00;
+}

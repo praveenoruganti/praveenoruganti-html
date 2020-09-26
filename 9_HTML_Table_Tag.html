@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="icon" href="img/praveenoruganti.ico" />   
+    <title>HTML Table Tag</title>
+    <style>
+        #custom,
+        #custom th,
+        #custom td {
+            border: 2px solid orangered;
+            border-collapse: collapse;
+            padding: 10px;
+        }
+
+        #custom {
+            width: 100%;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            box-shadow: 0 0 10px black;
+        }
+
+        #custom thead {
+            background-color: orangered;
+            color: white;
+        }
+
+        #custom tbody {
+            background-color: lightsalmon;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Simple Table</h2>
+    <table border="2">
+        <thead>
+            <th>S.No</th>
+            <th>Name</th>
+            <th>Company</th>
+            <th>City</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Praveen</td>
+                <td>SYF</td>
+                <td>Hyderabad</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Vipin</td>
+                <td>Wipro</td>
+                <td>Ireland</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Praneeth</td>
+                <td>CTS</td>
+                <td>UK</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Phani</td>
+                <td>Tech Mahindra</td>
+                <td>USA</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Table with col span</h2>
+    <table border="2">
+        <thead>
+            <th>S.No</th>
+            <th>Name</th>
+            <th colspan="2">Company & City</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Praveen</td>
+                <td>SYF</td>
+                <td>Hyderabad</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Vipin</td>
+                <td>Wipro</td>
+                <td>Ireland</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Praneeth</td>
+                <td>CTS</td>
+                <td>UK</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Phani</td>
+                <td>Tech Mahindra</td>
+                <td>USA</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Table with row span</h2>
+    <table border="2">
+        <thead>
+            <th>S.No</th>
+            <th>Name</th>
+            <th>Company</th>
+            <th>City</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">1</td>
+                <td>Praveen</td>
+                <td>SYF</td>
+                <td>Hyderabad</td>
+            </tr>
+            <tr>
+                <td>Vipin</td>
+                <td>Wipro</td>
+                <td>Ireland</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2">2</td>
+                <td>Praneeth</td>
+                <td>CTS</td>
+                <td>UK</td>
+            </tr>
+
+            <tr>
+                <td>Phani</td>
+                <td>Tech Mahindra</td>
+                <td>USA</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Custom Table</h2>
+    <table id="custom">
+        <thead>
+            <th>S.No</th>
+            <th>Name</th>
+            <th>Company</th>
+            <th>City</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Praveen</td>
+                <td>SYF</td>
+                <td>Hyderabad</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Vipin</td>
+                <td>Wipro</td>
+                <td>Ireland</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Praneeth</td>
+                <td>CTS</td>
+                <td>UK</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Phani</td>
+                <td>Tech Mahindra</td>
+                <td>USA</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
