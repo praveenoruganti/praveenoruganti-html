@@ -1,9 +1,21 @@
-# Praveen Oruganti HTML 
+### All About HTML
 
-All About HTML
-
-- git init
-- git add .
-- git commit -m "Praveen Oruganti HTML"
-- git remote add origin https://github.com/praveenoruganti/praveenoruganti-html.git
-- git push -u origin master
+- [1_HTML_Heading_Tags](https://praveenoruganti.github.io/praveenoruganti-html/1_HTML_Heading_Tags.html)
+- [2_HTML_Paragraph_Tag](https://praveenoruganti.github.io/praveenoruganti-html/2_HTML_Paragraph_Tag.html)
+- [3_HTML_Div_Tag](https://praveenoruganti.github.io/praveenoruganti-html/3_HTML_Div_Tag.html)
+- [4_HTML_Span_Tag](https://praveenoruganti.github.io/praveenoruganti-html/4_HTML_Span_Tag.html)
+- [5_HTML_Text Formatting_Tags](https://praveenoruganti.github.io/praveenoruganti-html/5_HTML_Text Formatting_Tags.html)
+- [6_HTML_UnOrdered List_Tags](https://praveenoruganti.github.io/praveenoruganti-html/6_HTML_UnOrdered List_Tags.html)
+- [7_HTML_Ordered List_Tags](https://praveenoruganti.github.io/praveenoruganti-html/7_HTML_Ordered List_Tags.html)
+- [8_HTML_Image_Tag](https://praveenoruganti.github.io/praveenoruganti-html/8_HTML_Image_Tag.html)
+- [9_HTML_Table_Tag](https://praveenoruganti.github.io/praveenoruganti-html/9_HTML_Table_Tag.html)
+- [10_HTML_Anchor_Tag](https://praveenoruganti.github.io/praveenoruganti-html/10_HTML_Anchor_Tag.html)
+- [11_HTML_iFrame_Tag](https://praveenoruganti.github.io/praveenoruganti-html/11_HTML_iFrame_Tag.html)
+- [12_HTML_Section_Article_Tags](https://praveenoruganti.github.io/praveenoruganti-html/12_HTML_Section_Article_Tags.html)
+- [13_HTML_Header_Footer_Tags](https://praveenoruganti.github.io/praveenoruganti-html/13_HTML_Header_Footer_Tags.html)
+- [14_HTML_Aside_Tag](https://praveenoruganti.github.io/praveenoruganti-html/14_HTML_Aside_Tag.html)
+- [15_HTML_Nav_Tag](https://praveenoruganti.github.io/praveenoruganti-html/15_HTML_Nav_Tag.html)
+- [16_HTML_Figure_Figcaption_Tags](https://praveenoruganti.github.io/praveenoruganti-html/16_HTML_Figure_Figcaption_Tags.html)
+- [17_HTML_Details_Summary_Tags](https://praveenoruganti.github.io/praveenoruganti-html/17_HTML_Details_Summary_Tags.html)
+- [18_HTML_Audio_Video_Tags](https://praveenoruganti.github.io/praveenoruganti-html/18_HTML_Audio_Video_Tags.html)
+- [All_HTML_Tags](https://praveenoruganti.github.io/praveenoruganti-html/All_HTML_Tags.html)
