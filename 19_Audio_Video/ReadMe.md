@@ -1,5 +1,12 @@
 # Audio and Video Tags
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/AV.PNG)
+
+## Audio Tag
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/Audio.PNG)
+
+## Video Tag
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/Video.PNG)
 
 
 ```HTML
