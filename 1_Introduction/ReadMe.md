@@ -39,15 +39,7 @@ For HTML5, we need to include DOCTYPE.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/1_Introduction/images/Semantic.jpg)
 
-- The <header> - Used to define header for a document or a section
-- The <nav> - Used to define container for navigation links
-- The <section> - Used to define a section inside a document
-- The <article> - Used to tag an independent self-contained article
-- The <aside> - Defines the content separately (just like a sidebar)
-- The <footer> - Used for tagging a footer inside a document or a section
-- The <details> - Used to define any additional details
-- The <summary> - Used to define a heading inside the <details> element
-
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/1_Introduction/images/Semantic.png)
 
 **How does HTML work?**
 HTML documents end with the .html or .htm extension. You can view it using any web browser. The browser reads the HTML file and renders the content for users to view it.
