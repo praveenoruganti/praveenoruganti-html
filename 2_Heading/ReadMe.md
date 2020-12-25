@@ -1,7 +1,6 @@
 # Heading Tags
 
-- HTML headings are defined with <h1> to <h6> tags.
-- <h1> defines the most important heading whereas <h6> defines the least important heading.
+HTML headings are defined with <h1> to <h6> tags.<h1> defines the most important heading whereas <h6> defines the least important heading.
 
 ```HTML5
   <h1>First Heading</h1>
