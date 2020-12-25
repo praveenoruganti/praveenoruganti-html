@@ -1,22 +1,5 @@
 # Audio and Video Tags
-
-## Audio Tag
-The <audio> tag is used to embed sound content in a document, such as music or other audio streams.
-
-The <audio> tag contains one or more <source> tags with different audio sources. The browser will choose the first source it supports.
-
-The text between the <audio> and </audio> tags will only be displayed in browsers that do not support the <audio> element.
-
-There are three supported audio formats in HTML: MP3, WAV, and OGG.
-
-## Video Tag
-The <video> tag is used to embed video content in a document, such as a movie clip or other video streams.
-
-The <video> tag contains one or more <source> tags with different video sources. The browser will choose the first source it supports.
-
-The text between the <video> and </video> tags will only be displayed in browsers that do not support the <video> element.
-
-There are three supported video formats in HTML: MP4, WebM, and OGG.
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/AV.PNG)
 
 
 ```HTML

@@ -10,6 +10,7 @@ Potential sources for the <article> element:
 - Forum post
 - Blog post
 - News story
+
 **Note**: The <article> element does not render as anything special in a browser. However, you can use CSS to style the <article> element.
 
 

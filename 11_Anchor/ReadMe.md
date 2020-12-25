@@ -1,18 +1,7 @@
 # Anchor Tag
 
-The <a> tag defines a hyperlink, which is used to link from one page to another.
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/11_Anchor/images/Anchor.PNG)
 
-The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
-
-By default, links will appear as follows in all browsers:
-
-- An unvisited link is underlined and blue
-- A visited link is underlined and purple
-- An active link is underlined and red
-
-If the <a> tag has no href attribute, it is only a placeholder for a hyperlink.
-
-A linked page is normally displayed in the current browser window, unless you specify another target.
 
 ```HTML
 
@@ -47,6 +36,7 @@ Tech Training'">Email Me</a>
 <a href="#home"> Go to Home</a>
 
 ```
+
 ```CSS
 html {
     scroll-behavior: smooth;

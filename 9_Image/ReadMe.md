@@ -1,16 +1,7 @@
 # Image Tag
 
-The <img> tag is used to embed an image in an HTML page.
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/9_Image/images/Image.PNG)
 
-Images are not technically inserted into a web page; images are linked to web pages. The <img> tag creates a holding space for the referenced image.
-
-The <img> tag has two required attributes:
-
-src - Specifies the path to the image
-alt - Specifies an alternate text for the image, if the image for some reason cannot be displayed
-Note: Also, always specify the width and height of an image. If width and height are not specified, the page might flicker while the image loads.
-
-Tip: To link an image to another document, simply nest the <img> tag inside an <a> tag (see example below).
 
 ```HTML
 

@@ -1,16 +1,7 @@
 # Details and Summary Tags
 
-The <details> tag specifies additional details that the user can open and close on demand.
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/18_Details_Summary/images/Details.PNG)
 
-The <details> tag is often used to create an interactive widget that the user can open and close. By default, the widget is closed. When open, it expands, and displays the content within.
-
-Any sort of content can be put inside the <details> tag. 
-
-The <summary> tag is used in conjuction with <details> to specify a visible heading for the details.
-
-The <summary> tag defines a visible heading for the <details> element. The heading can be clicked to view/hide the details.
-
-The <summary> element should be the first child element of the <details> element.
 
 ```HTML
 <details>

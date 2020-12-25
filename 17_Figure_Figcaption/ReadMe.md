@@ -1,14 +1,7 @@
 # Figure and Figcaption Tags
 
-The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/17_Figure_Figcaption/images/Figure.PNG)
 
-While the content of the <figure> element is related to the main flow, its position is independent of the main flow, and if removed it should not affect the flow of the document.
-
-The <figcaption> element is used to add a caption for the <figure> element.
-
-The <figcaption> tag defines a caption for a <figure> element.
-
-The <figcaption> element can be placed as the first or last child of the <figure> element.
 
 ```HTML
 <figure>
