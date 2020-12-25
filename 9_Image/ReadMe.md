@@ -6,16 +6,16 @@
 ```HTML
 
 <h2>Image1</h2>
-<img src="../0_All/img/image1.jpg" width="600" height="400" alt="Image1" />
+<img src="../../0_All/img/image1.jpg" width="600" height="400" alt="Image1" />
 
 <h2>Image2</h2>
-<img src="../0_All/img/image2.jpg" width="600" height="400" alt="Image2" />
+<img src="../../0_All/img/image2.jpg" width="600" height="400" alt="Image2" />
 
 <h2>Image3</h2>
-<img id="photo" src="../0_All/img/image3.jpg" width="600" height="400" alt="Image3" />
+<img id="photo" src="../../0_All/img/image3.jpg" width="600" height="400" alt="Image3" />
 
 <h2>Image4</h2>
-<img src="../0_All/img/image4.jpg" width="600" height="400" alt="Image4" />
+<img src="../../0_All/img/image4.jpg" width="600" height="400" alt="Image4" />
 
 <h2>Image5</h2>
 <img src="https://leaderonomics.com/wp-content/uploads/2017/10/jess-770x470.jpg" width="600" height="400"

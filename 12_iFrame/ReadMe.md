@@ -22,7 +22,7 @@ It is a good practice to always include a title attribute for the <iframe>. This
         gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>PDF Reader</h2>
-<iframe src="../0_All/img/oops.pdf" width=500 height=300></iframe>
+<iframe src="../../0_All/img/oops.pdf" width=500 height=300></iframe>
 
 <h2>Google Maps</h2>
 <iframe

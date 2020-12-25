@@ -5,41 +5,41 @@
 
 ```HTML
 <figure>
-    <img src="../0_All/img/image1.jpg" alt="" />
+    <img src="../../0_All/img/image1.jpg" alt="" />
     <figcaption>Image1</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image2.jpg" alt="" />
+    <img src="../../0_All/img/image2.jpg" alt="" />
     <figcaption>Image2</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image3.jpg" alt="" />
+    <img src="../../0_All/img/image3.jpg" alt="" />
     <figcaption>Image3</figcaption>
   </figure>
 
   <figure>
-    <img src="../0_All/img/image1.jpg" alt="" />
+    <img src="../../0_All/img/image1.jpg" alt="" />
     <figcaption>Image4</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image2.jpg" alt="" />
+    <img src="../../0_All/img/image2.jpg" alt="" />
     <figcaption>Image5</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image3.jpg" alt="" />
+    <img src="../../0_All/img/image3.jpg" alt="" />
     <figcaption>Image6</figcaption>
   </figure>
 
   <figure>
-    <img src="../0_All/img/image1.jpg" alt="" />
+    <img src="../../0_All/img/image1.jpg" alt="" />
     <figcaption>Image7</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image2.jpg" alt="" />
+    <img src="../../0_All/img/image2.jpg" alt="" />
     <figcaption>Image8</figcaption>
   </figure>
   <figure>
-    <img src="../0_All/img/image3.jpg" alt="" />
+    <img src="../../0_All/img/image3.jpg" alt="" />
     <figcaption>Image9</figcaption>
   </figure>
 ```

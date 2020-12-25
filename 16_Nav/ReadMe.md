@@ -97,7 +97,7 @@ html {
     }
 
     header {
-      background: white url(../0_All/img/image3.jpg) no-repeat scroll center;
+      background: white url(../../0_All/img/image3.jpg) no-repeat scroll center;
       background-size: cover;
       color: white;
       box-shadow: 0 0 10px black;

@@ -11,7 +11,7 @@ The <aside> content is often placed as a sidebar in a document.
 
 ```HTML
 <aside>
-    <img src="../0_All/img/PraveenOruganti.jpg" alt="Praveen Oruganti" />
+    <img src="../../0_All/img/PraveenOruganti.jpg" alt="Praveen Oruganti" />
     <a href="">HTML</a>
     <a href="">CSS</a>
     <a href="">JavaScript</a>

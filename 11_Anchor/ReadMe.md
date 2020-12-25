@@ -20,7 +20,7 @@
 
 <h2>Image as a Link with Target</h2>
 <a href="https://github.com/praveenoruganti" target="_blank">
-    <img src="../0_All/img/PraveenOruganti.jpg" width=200 height=100 /></a>
+    <img src="../../0_All/img/PraveenOruganti.jpg" width=200 height=100 /></a>
 
 <h2>Send an Email</h2>
 <a href="mailto:praveenorugantitech@gmail.com&Subject='Praveen Oruganti
@@ -30,7 +30,7 @@ Tech Training'">Email Me</a>
 <a href="tel:+919059341019">Call Me</a>
 
 <h2>Download a File</h2>
-<a href="../0_All/img/PraveenOruganti.jpg" download="Sample">Download</a>
+<a href="../../0_All/img/PraveenOruganti.jpg" download="Sample">Download</a>
 
 <h2>HTML Link with Bookmark</h2>
 <a href="#home"> Go to Home</a>
