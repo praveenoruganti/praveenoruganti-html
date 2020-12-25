@@ -3,6 +3,8 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/17_Figure_Figcaption/images/Figure.PNG)
 
 
+**HTML**
+
 ```HTML
 <figure>
     <img src="../../0_All/img/image1.jpg" alt="" />
@@ -43,6 +45,8 @@
     <figcaption>Image9</figcaption>
   </figure>
 ```
+
+**CSS**
 
 ```CSS
 body {

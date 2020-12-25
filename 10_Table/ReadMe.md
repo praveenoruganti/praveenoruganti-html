@@ -9,6 +9,8 @@
 - An HTML table may also include <caption>, <colgroup>, <thead>, <tfoot>, and <tbody> elements.
 
 
+**HTML**
+
 ```HTML
 
 <h2>Simple Table</h2>
@@ -153,6 +155,9 @@
 </table>
 
 ```
+
+**CSS**
+
 ```CSS
 #custom,
 #custom th,

@@ -3,6 +3,8 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/11_Anchor/images/Anchor.PNG)
 
 
+**HTML**
+
 ```HTML
 
 <div id="home">
@@ -36,6 +38,8 @@ Tech Training'">Email Me</a>
 <a href="#home"> Go to Home</a>
 
 ```
+
+**CSS**
 
 ```CSS
 html {

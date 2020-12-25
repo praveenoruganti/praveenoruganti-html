@@ -5,6 +5,9 @@
 - Unordered List Tags are with disc, circle, square and none types.
 - Default type is disc.
 
+
+**HTML**
+
 ```HTML
 <ul>
     <li>HTML</li>
@@ -37,6 +40,9 @@
 </ul>
 
 ```
+
+**CSS**
+
 ```CSS
 ul {
     font-family: 'Courier New', Courier, monospace;

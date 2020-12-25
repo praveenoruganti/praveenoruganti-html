@@ -9,6 +9,8 @@ The <aside> content is often placed as a sidebar in a document.
 **Note**: The <aside> element does not render as anything special in a browser. However, you can use CSS to style the <aside> element.
 
 
+**HTML**
+
 ```HTML
 <aside>
     <img src="../../0_All/img/PraveenOruganti.jpg" alt="Praveen Oruganti" />
@@ -22,6 +24,8 @@ The <aside> content is often placed as a sidebar in a document.
 </aside>
 
 ```
+
+**CSS**
 
 ```CSS
 body {

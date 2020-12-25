@@ -9,6 +9,8 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/Video.PNG)
 
 
+**HTML**
+
 ```HTML
 <h2>Audio</h2>
   <div>
@@ -27,6 +29,8 @@
       </audio>
   </div>
 ```
+
+**CSS**
 
 ```CSS
 body {

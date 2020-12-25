@@ -5,6 +5,9 @@
 - Ordered List Tags with 1 , A , a , i and I types.
 - Default type is 1.
 
+
+**HTML**
+
 ```HTML
 <ol>
     <li>HTML</li>
@@ -43,6 +46,8 @@
 </ol>
 
 ```
+
+**CSS**
 
 ```CSS
 ol {

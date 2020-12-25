@@ -2,6 +2,7 @@
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/18_Details_Summary/images/Details.PNG)
 
+**HTML**
 
 ```HTML
 <details>
@@ -88,6 +89,8 @@
     </div>
   </details>
 ```
+
+**CSS**
 
 ```CSS
 body {

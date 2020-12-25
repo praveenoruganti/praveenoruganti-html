@@ -3,6 +3,8 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/9_Image/images/Image.PNG)
 
 
+**HTML**
+
 ```HTML
 
 <h2>Image1</h2>
@@ -22,6 +24,8 @@
     alt="Image5" />
 
 ```
+
+**CSS**
 
 ```CSS
 h2 {

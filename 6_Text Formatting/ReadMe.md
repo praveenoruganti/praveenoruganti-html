@@ -5,6 +5,8 @@ Here with the Text Formatting Tags.
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/6_Text%20Formatting/images/TextFormatting.PNG)
 
 
+**HTML**
+
 ```HTML
 <hr>
     <h2>Bold Text</h2>
@@ -87,6 +89,9 @@ Here with the Text Formatting Tags.
         <del>strikeout</del>.
     </div>
 ```
+
+**CSS**
+
 ```CSS
 div {
     background-color: lightgray;

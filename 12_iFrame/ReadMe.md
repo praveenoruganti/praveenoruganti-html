@@ -8,6 +8,7 @@ Use CSS to style the <iframe> (see example below).
 
 It is a good practice to always include a title attribute for the <iframe>. This is used by screen readers to read out what the content of the <iframe> is.
 
+**HTML**
 
 ```HTML
 
@@ -36,6 +37,8 @@ It is a good practice to always include a title attribute for the <iframe>. This
     width=500 height=300 frameborder=0 />
 
 ```
+
+**CSS**
 
 ```CSS
 body {

@@ -6,6 +6,8 @@ The <span> tag is easily styled by CSS or manipulated with JavaScript using the 
 
 The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
 
+**HTML**
+
 ```HTML
 <h1>
     <span style="color:blue">P</span>
@@ -25,6 +27,8 @@ The <span> tag is much like the <div> element, but <div> is a block-level elemen
     <span style="color:burlywood">I</span>
 </h1>
 ```
+
+**CSS**
 
 ```CSS
 h1 {

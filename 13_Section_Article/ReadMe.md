@@ -14,6 +14,8 @@ Potential sources for the <article> element:
 **Note**: The <article> element does not render as anything special in a browser. However, you can use CSS to style the <article> element.
 
 
+**HTML**
+
 ```HTML
 
 <section>
@@ -82,6 +84,8 @@ Potential sources for the <article> element:
 </section>
 
 ```
+
+**CSS**
 
 ```CSS
 section {

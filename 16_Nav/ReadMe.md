@@ -6,6 +6,7 @@ Notice that NOT all links of a document should be inside a <nav> element. The <n
 
 Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.
 
+**HTML**
 
 ```HTML
 <header>
@@ -84,6 +85,8 @@ Browsers, such as screen readers for disabled users, can use this element to det
     </p>
   </footer>
 ```
+
+**CSS**
 
 ```CSS
 html {

@@ -10,6 +10,8 @@ Any sort of content can be put inside the <div> tag!
 
 **Note**: By default, browsers always place a line break before and after the <div> element.
 
+**HTML**
+
 ```HTML
 <div style="background-color:darkgreen;">
     <h1>HTML</h1>
@@ -25,6 +27,8 @@ Any sort of content can be put inside the <div> tag!
 </div>
 
 ```
+
+**CSS**
 
 ```CSS
 body {

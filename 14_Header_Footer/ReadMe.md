@@ -25,6 +25,8 @@ You can have several <footer> elements in one document.
 Contact information inside a <footer> element should go inside an <address> tag.
 
 
+**HTML**
+
 ```HTML
 <header>
   <h1>Praveen Oruganti Technologies</h1>
@@ -112,6 +114,9 @@ Contact information inside a <footer> element should go inside an <address> tag.
 </footer>
 
 ```
+
+**CSS**
+
 ```CSS
 body {
     font-family: Arial, Helvetica, sans-serif;
