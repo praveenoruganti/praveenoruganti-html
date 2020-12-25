@@ -14,6 +14,8 @@ Add a "tooltip" to the paragraph
 <p title ="blog">Praveen Oruganti Technical blog.</p>
 ```
 
+**HTML**
+
 ```HTML
 <h2>HTML</h1>
 <p>This is HTML</p>
@@ -27,6 +29,9 @@ Add a "tooltip" to the paragraph
 <p>This is JavaScript</p>
 <p>This is JavaScript</p>
 ```
+
+**CSS**
+
 ```CSS
 body {
     background-color: lightgreen;
