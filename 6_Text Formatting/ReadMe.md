@@ -2,14 +2,8 @@
 
 Here with the Text Formatting Tags.
 
-- Bold Text -> <b> or <strong>
-- Italic -> <i> or <em>
-- Underline -> <u> or <ins>
-- Strike Out -> <s> or <del>
-- Small Text -> <small>
-- Super Script -> <sup>
-- Sub Script -> <sub>
-- Marked text -> <mark>
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/6_Text%20Formatting/images/TextFormatting.PNG)
+
 
 ```HTML
 <hr>
