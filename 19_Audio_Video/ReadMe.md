@@ -23,7 +23,7 @@
   <h2>Video</h2>
   <div>
     <video controls loop autoplay>
-      <source src="video/video.mp4" type="video/mp4" />
+       <source src="../../0_All/video/video.mp4" type="video/mp4" />
       </audio>
   </div>
 ```
