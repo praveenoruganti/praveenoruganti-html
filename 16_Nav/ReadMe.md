@@ -170,4 +170,3 @@ html {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/16_Nav/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

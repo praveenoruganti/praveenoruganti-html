@@ -76,4 +76,3 @@ We can have multiple of them:
 The class and id attributes are two of the most common you will find used.
 
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

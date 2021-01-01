@@ -117,4 +117,3 @@ h2 {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/6_Text%20Formatting/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

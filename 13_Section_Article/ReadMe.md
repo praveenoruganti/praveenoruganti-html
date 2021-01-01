@@ -114,4 +114,3 @@ section article {
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/13_Section_Article/Demo).
 
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

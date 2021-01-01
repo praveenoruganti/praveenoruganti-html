@@ -47,4 +47,3 @@ img {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/9_Image/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

@@ -56,4 +56,3 @@ iframe {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/12_iFrame/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

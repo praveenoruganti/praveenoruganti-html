@@ -84,4 +84,3 @@ body {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/17_Figure_Figcaption/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

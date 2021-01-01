@@ -122,4 +122,3 @@ body {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/18_Details_Summary/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

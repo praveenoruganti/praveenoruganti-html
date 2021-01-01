@@ -7,4 +7,4 @@
 
 **Note**: I will make sure to build more projects and keep this updated
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+
