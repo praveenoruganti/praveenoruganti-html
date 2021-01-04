@@ -66,7 +66,7 @@ ol li {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/8_Ordered%20List/Demo).
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 
 ### Connect with me:

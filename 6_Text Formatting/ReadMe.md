@@ -117,7 +117,7 @@ h2 {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/6_Text%20Formatting/Demo).
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 ### Connect with me:
 

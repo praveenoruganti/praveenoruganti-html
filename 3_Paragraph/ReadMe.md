@@ -49,7 +49,7 @@ h2 {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/3_Paragraph/Demo).
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 
 ### Connect with me:
