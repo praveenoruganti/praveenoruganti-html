@@ -61,6 +61,6 @@ ul li {
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/7_UnOrdered%20List/Demo).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

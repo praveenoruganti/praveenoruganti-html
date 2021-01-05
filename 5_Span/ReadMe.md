@@ -38,6 +38,6 @@ h1 {
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/5_Span/Demo).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

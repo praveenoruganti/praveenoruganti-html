@@ -114,6 +114,6 @@ section article {
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/13_Section_Article/Demo).
 
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
