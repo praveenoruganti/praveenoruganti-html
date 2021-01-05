@@ -2,7 +2,7 @@
 
 Here with the Text Formatting Tags.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/6_Text%20Formatting/images/TextFormatting.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/6_Text%20Formatting/images/TextFormatting.PNG)
 
 
 **HTML**
@@ -115,7 +115,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/6_Text%20Formatting/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/6_Text%20Formatting/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

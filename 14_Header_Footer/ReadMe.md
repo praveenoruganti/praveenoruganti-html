@@ -103,7 +103,7 @@ Contact information inside a <footer> element should go inside an <address> tag.
 </section>
 
 <footer>
-  <h3>&copy;2020 Praveen Oruganti Technologies</h3>
+  <h3>&copy;2021 Praveen Oruganti Technologies</h3>
   <p>All Rights Reserved</p>
   <p>
     Developed & Maintaned by
@@ -177,7 +177,7 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/14_Header_Footer/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/14_Header_Footer/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

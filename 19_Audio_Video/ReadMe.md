@@ -2,11 +2,11 @@
 
 ## Audio Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/Audio.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/19_Audio_Video/images/Audio.PNG)
 
 ## Video Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/19_Audio_Video/images/Video.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/19_Audio_Video/images/Video.PNG)
 
 
 **HTML**
@@ -62,7 +62,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/19_Audio_Video/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/19_Audio_Video/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

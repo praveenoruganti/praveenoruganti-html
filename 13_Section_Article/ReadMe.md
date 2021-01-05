@@ -111,7 +111,7 @@ section article {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/13_Section_Article/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/13_Section_Article/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

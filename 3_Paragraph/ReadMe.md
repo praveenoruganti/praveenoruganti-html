@@ -47,7 +47,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/3_Paragraph/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/3_Paragraph/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

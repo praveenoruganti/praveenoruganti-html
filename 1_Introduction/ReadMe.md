@@ -13,7 +13,7 @@ HTML is a markup language i.e., it is a way for the computers to communicate wit
 HTML is a markup language that is used by the browser to manipulate text, images, and other content to display it in the required format. HTML was created by Tim Berners-Lee in 1991.
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/1_Introduction/images/History.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/1_Introduction/images/History.PNG)
 
 
 **HTML Structure**
@@ -37,9 +37,9 @@ For HTML5, we need to include DOCTYPE.
 
 <!DOCTYPE html>
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/1_Introduction/images/Semantic.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/1_Introduction/images/Semantic.jpg)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/1_Introduction/images/Semantic.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/1_Introduction/images/Semantic.PNG)
 
 **How does HTML work?**
 HTML documents end with the .html or .htm extension. You can view it using any web browser. The browser reads the HTML file and renders the content for users to view it.

@@ -1,6 +1,6 @@
 # Image Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-html/master/9_Image/images/Image.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/9_Image/images/Image.PNG)
 
 
 **HTML**
@@ -45,5 +45,5 @@ img {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-html/9_Image/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/9_Image/Demo).
 
