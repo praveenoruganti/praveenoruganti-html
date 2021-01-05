@@ -177,7 +177,7 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/14_Header_Footer/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/14_Header_Footer/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

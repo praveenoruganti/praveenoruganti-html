@@ -55,7 +55,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-html/11_Anchor/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/11_Anchor/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
