@@ -3,7 +3,9 @@
 
 - [Restaurant Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenorugantitech-restaurant-website)
 - [Technology Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenorugantitech-technology-website)
+- [Electronics Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenorugantitech-electronics-website)
 - [Nature Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenorugantitech-nature-website)
+
 
 **Note**: I will make sure to build more projects and keep this updated
 
