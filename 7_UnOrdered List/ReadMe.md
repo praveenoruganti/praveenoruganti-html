@@ -59,7 +59,7 @@ ul li {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/7_UnOrdered%20List/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/7_UnOrdered%20List/Demo){:target="_blank"}.
 
 
 

@@ -168,7 +168,7 @@ html {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/16_Nav/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/16_Nav/Demo){:target="_blank"}.
 
 
 

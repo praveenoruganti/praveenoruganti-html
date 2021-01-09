@@ -82,7 +82,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/17_Figure_Figcaption/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/17_Figure_Figcaption/Demo){:target="_blank"}.
 
 
 

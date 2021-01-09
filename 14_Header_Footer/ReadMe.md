@@ -177,7 +177,7 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/14_Header_Footer/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/14_Header_Footer/Demo){:target="_blank"}.
 
 
 

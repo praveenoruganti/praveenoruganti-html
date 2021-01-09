@@ -48,7 +48,7 @@ div {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/4_Div/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/4_Div/Demo){:target="_blank"}.
 
 
 

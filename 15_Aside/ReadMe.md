@@ -69,7 +69,7 @@ aside img {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/15_Aside/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/15_Aside/Demo){:target="_blank"}.
 
 
 

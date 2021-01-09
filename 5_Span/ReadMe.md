@@ -36,7 +36,7 @@ h1 {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/5_Span/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/5_Span/Demo){:target="_blank"}.
 
 
 

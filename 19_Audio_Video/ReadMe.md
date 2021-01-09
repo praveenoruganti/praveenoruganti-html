@@ -62,7 +62,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/19_Audio_Video/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/19_Audio_Video/Demo){:target="_blank"}.
 
 
 

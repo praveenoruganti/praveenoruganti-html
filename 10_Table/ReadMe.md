@@ -184,7 +184,7 @@
 }
 
 ```
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/10_Table/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/10_Table/Demo){:target="_blank"}.
 
 
 
