@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 name: ""
+markdown: kramdown
 google_analytics: UA-186960773-2
