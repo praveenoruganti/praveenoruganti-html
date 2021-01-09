@@ -12,6 +12,12 @@ HTML is a markup language i.e., it is a way for the computers to communicate wit
 
 HTML is a markup language that is used by the browser to manipulate text, images, and other content to display it in the required format. HTML was created by Tim Berners-Lee in 1991.
 
+Here are the first web pages created back in 1992 explaining WWW and hypertext:
+
+[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
+
+[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/WhatIs.html](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/WhatIs.html)
+
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/1_Introduction/images/History.PNG)
 
