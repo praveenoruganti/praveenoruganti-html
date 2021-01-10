@@ -1,4 +1,4 @@
-### All About HTML
+### Praveen Oruganti Tech HTML Course
 
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-html/1_Introduction){:target="_blank"}
