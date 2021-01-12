@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Section and Article Tags
+
 
 The <section> tag defines a section in a document.
 

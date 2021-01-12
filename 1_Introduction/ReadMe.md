@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # HTML Introduction
+
 
 **What is HTML?**
 

@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Text Formatting Tags
+
 
 Here with the Text Formatting Tags.
 

@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Div Tag
+
 
 The <div> tag defines a division or a section in an HTML document.
 

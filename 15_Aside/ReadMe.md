@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Aside Tag
+
 
 The <aside> tag defines some content aside from the content it is placed in.
 

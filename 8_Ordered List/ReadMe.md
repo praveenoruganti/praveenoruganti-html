@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Ordered List Tags
+
 
 - The <ol> tag defines an ordered list. An ordered list can be numerical or alphabetical.
 - The <li> tag is used to define each list item.

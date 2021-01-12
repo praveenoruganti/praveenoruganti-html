@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Heading Tags
+
 
 HTML headings are defined with <h1> to <h6> tags.
 

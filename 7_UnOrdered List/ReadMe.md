@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # UnOrdered List Tags
+
 
 - The <ul> tag defines an unordered (bulleted) list.
 - Use the <ul> tag together with the <li> tag to create unordered lists.

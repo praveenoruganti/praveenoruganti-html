@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Span Tag
+
 
 The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
 

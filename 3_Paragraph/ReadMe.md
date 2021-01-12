@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Paragraph Tag
+
 
 HTML paragraphs are defined with <p> tags. You can add as many paragraphs as you want with this tag.
 

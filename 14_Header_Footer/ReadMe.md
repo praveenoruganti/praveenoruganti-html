@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # Header and Footer Tags
+
 
 ## Header Tag
 The <header> element represents a container for introductory content or a set of navigational links.

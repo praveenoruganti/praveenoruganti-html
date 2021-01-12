@@ -1,4 +1,7 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
 # iFrame Tag
+
 
 The <iframe> tag specifies an inline frame.
 
