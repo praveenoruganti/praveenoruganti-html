@@ -1,4 +1,6 @@
-### Praveen Oruganti Tech HTML Course
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
+
+# HTML Course
 
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-html/1_Introduction){:target="_blank"}
@@ -20,6 +22,8 @@
 - [Figure and Figcaption Tags](https://praveenorugantitech.github.io/praveenorugantitech-html/17_Figure_Figcaption){:target="_blank"}
 - [Details and Summary Tags](https://praveenorugantitech.github.io/praveenorugantitech-html/18_Details_Summary){:target="_blank"}
 - [Audio and Video Tags](https://praveenorugantitech.github.io/praveenorugantitech-html/19_Audio_Video){:target="_blank"}
+
+
 
 **Note**: I will make sure to keep this updated
 
