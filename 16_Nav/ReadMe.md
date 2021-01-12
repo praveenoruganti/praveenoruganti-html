@@ -1,5 +1,3 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/tech.PNG)
-
 # Nav Tag
 
 

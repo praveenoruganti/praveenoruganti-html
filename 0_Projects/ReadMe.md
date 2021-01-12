@@ -1,4 +1,4 @@
-### Praveen Oruganti Tech HTML CSS Projects
+# HTML CSS Projects
 
 
 - [Restaurant Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenoruganti-restaurant-website){:target="_blank"}
