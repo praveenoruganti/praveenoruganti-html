@@ -1,7 +1,9 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # Section and Article Tags
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
 The <section> tag defines a section in a document.

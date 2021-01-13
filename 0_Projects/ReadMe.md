@@ -1,7 +1,10 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # HTML CSS Projects
+
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
 - [Restaurant Website](https://praveenorugantitech.github.io/praveenorugantitech-html/0_Projects/praveenoruganti-restaurant-website){:target="_blank"}

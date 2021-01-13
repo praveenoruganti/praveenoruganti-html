@@ -1,7 +1,6 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
-
-
 # Ordered List Tags
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
 - The <ol> tag defines an ordered list. An ordered list can be numerical or alphabetical.

@@ -1,7 +1,9 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # Aside Tag
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
 The <aside> tag defines some content aside from the content it is placed in.

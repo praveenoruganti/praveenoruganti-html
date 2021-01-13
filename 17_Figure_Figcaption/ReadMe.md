@@ -1,7 +1,9 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # Figure and Figcaption Tags
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/17_Figure_Figcaption/images/Figure.PNG)
