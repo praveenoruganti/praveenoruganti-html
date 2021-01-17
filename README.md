@@ -4,7 +4,7 @@
 # HTML Course
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-html/1_Introduction){:target="_blank"}

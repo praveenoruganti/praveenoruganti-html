@@ -4,7 +4,7 @@
 # Header and Footer Tags
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 ## Header Tag

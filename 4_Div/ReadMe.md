@@ -3,7 +3,7 @@
 
 # Div Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 The <div> tag defines a division or a section in an HTML document.

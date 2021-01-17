@@ -4,7 +4,7 @@
 # Heading Tags
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 HTML headings are defined with <h1> to <h6> tags.

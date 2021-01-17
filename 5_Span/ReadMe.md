@@ -1,6 +1,6 @@
 # Span Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
 

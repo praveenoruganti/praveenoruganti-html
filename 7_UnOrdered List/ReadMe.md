@@ -1,6 +1,6 @@
 # UnOrdered List Tags
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 - The <ul> tag defines an unordered (bulleted) list.
 - Use the <ul> tag together with the <li> tag to create unordered lists.
