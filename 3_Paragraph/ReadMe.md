@@ -52,7 +52,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/3_Paragraph/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/3_Paragraph/Demo){:target="_blank"}.
 
 
 

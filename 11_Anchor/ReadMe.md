@@ -6,7 +6,7 @@
 
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/11_Anchor/images/Anchor.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/11_Anchor/images/Anchor.PNG)
 
 
 **HTML**
@@ -61,7 +61,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/11_Anchor/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/11_Anchor/Demo){:target="_blank"}.
 
 
 

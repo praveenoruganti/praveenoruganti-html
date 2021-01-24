@@ -173,7 +173,7 @@ html {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/16_Nav/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/16_Nav/Demo){:target="_blank"}.
 
 
 

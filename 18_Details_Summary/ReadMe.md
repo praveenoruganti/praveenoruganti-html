@@ -7,7 +7,7 @@
 
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/18_Details_Summary/images/Details.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/18_Details_Summary/images/Details.PNG)
 
 **HTML**
 
@@ -127,7 +127,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/18_Details_Summary/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/18_Details_Summary/Demo){:target="_blank"}.
 
 
 

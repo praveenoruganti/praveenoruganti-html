@@ -9,11 +9,11 @@
 
 ## Audio Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/19_Audio_Video/images/Audio.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/19_Audio_Video/images/Audio.PNG)
 
 ## Video Tag
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/19_Audio_Video/images/Video.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/19_Audio_Video/images/Video.PNG)
 
 
 **HTML**
@@ -69,7 +69,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/19_Audio_Video/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/19_Audio_Video/Demo){:target="_blank"}.
 
 
 

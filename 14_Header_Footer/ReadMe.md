@@ -184,7 +184,7 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/14_Header_Footer/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/14_Header_Footer/Demo){:target="_blank"}.
 
 
 

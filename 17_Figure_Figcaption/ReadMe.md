@@ -6,7 +6,7 @@
 
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/17_Figure_Figcaption/images/Figure.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/17_Figure_Figcaption/images/Figure.PNG)
 
 
 **HTML**
@@ -88,7 +88,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/17_Figure_Figcaption/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/17_Figure_Figcaption/Demo){:target="_blank"}.
 
 
 

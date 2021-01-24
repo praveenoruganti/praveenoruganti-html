@@ -3,7 +3,7 @@
 
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html/master/9_Image/images/Image.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-html-course/master/9_Image/images/Image.PNG)
 
 
 **HTML**
@@ -48,5 +48,5 @@ img {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/9_Image/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/9_Image/Demo){:target="_blank"}.
 

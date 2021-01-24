@@ -67,7 +67,7 @@ ol li {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html/8_Ordered%20List/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/8_Ordered%20List/Demo){:target="_blank"}.
 
 
 
