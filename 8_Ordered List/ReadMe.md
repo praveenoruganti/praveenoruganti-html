@@ -11,7 +11,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 <ol>
     <li>HTML</li>
     <li>CSS</li>

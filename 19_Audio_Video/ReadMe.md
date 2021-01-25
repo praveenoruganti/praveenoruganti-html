@@ -18,7 +18,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 <h2>Audio</h2>
   <div>
     <audio controls loop autoplay>

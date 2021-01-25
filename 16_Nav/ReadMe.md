@@ -13,7 +13,7 @@ Browsers, such as screen readers for disabled users, can use this element to det
 
 **HTML**
 
-```HTML
+```JSX
 <header>
     <h1>Praveen Oruganti Technologies</h1>
     <nav>

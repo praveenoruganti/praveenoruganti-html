@@ -11,7 +11,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 
 <div id="home">
     <h2 style="background-color:orangered">Home Page</h2>

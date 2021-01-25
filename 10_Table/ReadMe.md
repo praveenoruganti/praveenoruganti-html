@@ -18,7 +18,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 
 <h2>Simple Table</h2>
 <table border="2">

@@ -10,7 +10,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 <ul>
     <li>HTML</li>
     <li>CSS</li>

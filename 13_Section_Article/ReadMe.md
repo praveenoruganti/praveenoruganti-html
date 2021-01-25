@@ -22,7 +22,7 @@ Potential sources for the <article> element:
 
 **HTML**
 
-```HTML
+```JSX
 
 <section>
   <h1>Movies</h1>

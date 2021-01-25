@@ -9,7 +9,7 @@ Here with the Text Formatting Tags.
 
 **HTML**
 
-```HTML
+```JSX
 <hr>
     <h2>Bold Text</h2>
     <hr>

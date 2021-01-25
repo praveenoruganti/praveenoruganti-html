@@ -11,7 +11,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 <details>
     <summary>HTML</summary>
     <div>

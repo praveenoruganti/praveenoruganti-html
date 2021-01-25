@@ -11,7 +11,7 @@
 
 **HTML**
 
-```HTML
+```JSX
 <figure>
     <img src="../../0_All/img/image1.jpg" alt="" />
     <figcaption>Image1</figcaption>
