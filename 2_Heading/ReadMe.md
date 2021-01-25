@@ -11,7 +11,7 @@ HTML headings are defined with <h1> to <h6> tags.
 
 The <h1> defines the most important heading whereas <h6> defines the least important heading.
 
-```JSX
+```html
   <h1>First Heading</h1>
   <h2>Second Headng</h2>
   <h3>Third Heading</h3>

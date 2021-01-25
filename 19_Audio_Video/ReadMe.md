@@ -18,7 +18,7 @@
 
 **HTML**
 
-```JSX
+```html
 <h2>Audio</h2>
   <div>
     <audio controls loop autoplay>
@@ -39,7 +39,7 @@
 
 **CSS**
 
-```CSS
+```css
 body {
       font-family: Arial, Helvetica, sans-serif;
       background-color: black;

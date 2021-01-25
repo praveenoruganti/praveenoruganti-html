@@ -22,7 +22,7 @@ Potential sources for the <article> element:
 
 **HTML**
 
-```JSX
+```html
 
 <section>
   <h1>Movies</h1>
@@ -93,7 +93,7 @@ Potential sources for the <article> element:
 
 **CSS**
 
-```CSS
+```css
 section {
   background: linear-gradient(45deg, black, darkred);
   color: white;

@@ -17,7 +17,7 @@ The <aside> content is often placed as a sidebar in a document.
 
 **HTML**
 
-```JSX
+```html
 <aside>
     <img src="../../0_All/img/PraveenOruganti.jpg" alt="Praveen Oruganti" />
     <a href="">HTML</a>
@@ -33,7 +33,7 @@ The <aside> content is often placed as a sidebar in a document.
 
 **CSS**
 
-```CSS
+```css
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;

@@ -11,7 +11,7 @@
 
 **HTML**
 
-```JSX
+```html
 <details>
     <summary>HTML</summary>
     <div>
@@ -99,7 +99,7 @@
 
 **CSS**
 
-```CSS
+```css
 body {
       font-family: Arial, Helvetica, sans-serif;
     }

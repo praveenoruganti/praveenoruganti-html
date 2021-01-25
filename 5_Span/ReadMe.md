@@ -10,7 +10,7 @@ The <span> tag is much like the <div> element, but <div> is a block-level elemen
 
 **HTML**
 
-```JSX
+```html
 <h1>
     <span style="color:blue">P</span>
     <span style="color:green">R</span>
@@ -32,7 +32,7 @@ The <span> tag is much like the <div> element, but <div> is a block-level elemen
 
 **CSS**
 
-```CSS
+```css
 h1 {
     text-align: center;
 }

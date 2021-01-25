@@ -10,7 +10,7 @@
 
 **HTML**
 
-```JSX
+```html
 <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -45,7 +45,7 @@
 
 **CSS**
 
-```CSS
+```css
 ul {
     font-family: 'Courier New', Courier, monospace;
     background-color: orangered;

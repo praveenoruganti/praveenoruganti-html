@@ -34,7 +34,7 @@ Contact information inside a <footer> element should go inside an <address> tag.
 
 **HTML**
 
-```JSX
+```html
 <header>
   <h1>Praveen Oruganti Technologies</h1>
 </header>
@@ -124,7 +124,7 @@ Contact information inside a <footer> element should go inside an <address> tag.
 
 **CSS**
 
-```CSS
+```css
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;

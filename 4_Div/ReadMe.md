@@ -18,7 +18,7 @@ Any sort of content can be put inside the <div> tag!
 
 **HTML**
 
-```JSX
+```html
 <div style="background-color:darkgreen;">
     <h1>HTML</h1>
     <p>This is HTML</p>
@@ -36,7 +36,7 @@ Any sort of content can be put inside the <div> tag!
 
 **CSS**
 
-```CSS
+```css
 body {
     text-align: center;
 }

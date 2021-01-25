@@ -11,7 +11,7 @@
 
 **HTML**
 
-```JSX
+```html
 
 <div id="home">
     <h2 style="background-color:orangered">Home Page</h2>
@@ -47,7 +47,7 @@ Tech Training'">Email Me</a>
 
 **CSS**
 
-```CSS
+```css
 html {
     scroll-behavior: smooth;
 }

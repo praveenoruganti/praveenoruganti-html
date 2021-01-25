@@ -13,7 +13,7 @@ Browsers, such as screen readers for disabled users, can use this element to det
 
 **HTML**
 
-```JSX
+```html
 <header>
     <h1>Praveen Oruganti Technologies</h1>
     <nav>
@@ -93,7 +93,7 @@ Browsers, such as screen readers for disabled users, can use this element to det
 
 **CSS**
 
-```CSS
+```css
 html {
       scroll-behavior: smooth;
     }

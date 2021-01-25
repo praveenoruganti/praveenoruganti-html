@@ -9,19 +9,19 @@ HTML paragraphs are defined with <p> tags. You can add as many paragraphs as you
 
 Browsers automatically add a single blank line before and after each <p> element.
 
-```JSX
+```html
 <p>First Paragraph</p>
 ```
 
 Add a "tooltip" to the paragraph
 
-```JSX
+```html
 <p title ="blog">Praveen Oruganti Technical blog.</p>
 ```
 
 **HTML**
 
-```JSX
+```html
 <h2>HTML</h1>
 <p>This is HTML</p>
 <p>This is HTML</p>
@@ -37,7 +37,7 @@ Add a "tooltip" to the paragraph
 
 **CSS**
 
-```CSS
+```css
 body {
     background-color: lightgreen;
     font-family: 'Courier New', Courier, monospace;

@@ -11,7 +11,7 @@
 
 **HTML**
 
-```JSX
+```html
 <figure>
     <img src="../../0_All/img/image1.jpg" alt="" />
     <figcaption>Image1</figcaption>
@@ -54,7 +54,7 @@
 
 **CSS**
 
-```CSS
+```css
 body {
       font-family: Arial, Helvetica, sans-serif;
       background-color: black;

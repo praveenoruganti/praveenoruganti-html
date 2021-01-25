@@ -11,7 +11,7 @@
 
 **HTML**
 
-```JSX
+```html
 <ol>
     <li>HTML</li>
     <li>CSS</li>
@@ -52,7 +52,7 @@
 
 **CSS**
 
-```CSS
+```css
 ol {
     font-family: 'Courier New', Courier, monospace;
     background-color: limegreen;

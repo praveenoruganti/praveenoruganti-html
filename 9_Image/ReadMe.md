@@ -8,7 +8,7 @@
 
 **HTML**
 
-```JSX
+```html
 
 <h2>Image1</h2>
 <img src="../../0_All/img/image1.jpg" width="600" height="400" alt="Image1" />
@@ -30,7 +30,7 @@
 
 **CSS**
 
-```CSS
+```css
 h2 {
     font-family: 'Courier New', Courier, monospace;
 }

@@ -16,7 +16,7 @@ It is a good practice to always include a title attribute for the <iframe>. This
 
 **HTML**
 
-```JSX
+```html
 
 <h2> Internal Webpage</h2>
 <iframe src="./9_Image/index.html" width=500 height=300></iframe>
@@ -46,7 +46,7 @@ It is a good practice to always include a title attribute for the <iframe>. This
 
 **CSS**
 
-```CSS
+```css
 body {
     margin-bottom: 500px
 }

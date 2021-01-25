@@ -18,7 +18,7 @@
 
 **HTML**
 
-```JSX
+```html
 
 <h2>Simple Table</h2>
 <table border="2">
@@ -165,7 +165,7 @@
 
 **CSS**
 
-```CSS
+```css
 #custom,
 #custom th,
 #custom td {

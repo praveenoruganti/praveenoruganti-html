@@ -9,7 +9,7 @@ Here with the Text Formatting Tags.
 
 **HTML**
 
-```JSX
+```html
 <hr>
     <h2>Bold Text</h2>
     <hr>
@@ -94,7 +94,7 @@ Here with the Text Formatting Tags.
 
 **CSS**
 
-```CSS
+```css
 div {
     background-color: lightgray;
     padding: 15px;

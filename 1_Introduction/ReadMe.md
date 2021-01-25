@@ -68,7 +68,7 @@ Elements have a starting tag, some content, and a closing tag.
 
 In this case, we use the p starting and closing tags to create a paragraph element.
 
-```JSX
+```html
 <p>A paragraph of text</p>
 ```
 
@@ -76,12 +76,12 @@ In this case, we use the p starting and closing tags to create a paragraph eleme
 The starting tag of an element can have special snippets of information we can attach, called attributes.
 Attributes have the key="value" syntax:
 
-```JSX
+```html
 <p class="a-class">Some Text</p>
 ```
 We can have multiple of them:
 
-```JSX
+```html
 <p class="a-class" id="an-id">Some More Text</p>
 ```
 
