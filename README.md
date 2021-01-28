@@ -29,7 +29,7 @@
 
 
 
-**Note**: I will make sure to keep this updated
+**Note**: I will make sure to keep this updated.
 
 
 
