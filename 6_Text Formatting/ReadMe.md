@@ -117,7 +117,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/6_Text%20Formatting/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/6_Text%20Formatting/Demo){:target="_blank"}
 
 
 

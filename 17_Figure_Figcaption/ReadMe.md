@@ -88,7 +88,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/17_Figure_Figcaption/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/17_Figure_Figcaption/Demo){:target="_blank"}
 
 
 

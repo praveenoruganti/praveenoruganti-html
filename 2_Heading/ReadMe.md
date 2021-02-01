@@ -19,7 +19,7 @@ The <h1> defines the most important heading whereas <h6> defines the least impor
   <h5>Fifth Heading</h5>
   <h6>Sixth Heading</h6>
 ```
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/2_Heading/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/2_Heading/Demo){:target="_blank"}
 
 
 

@@ -127,7 +127,7 @@ body {
     }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/18_Details_Summary/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/18_Details_Summary/Demo){:target="_blank"}
 
 
 

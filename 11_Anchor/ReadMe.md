@@ -61,7 +61,7 @@ h2 {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/11_Anchor/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-html-course/11_Anchor/Demo){:target="_blank"}
 
 
 
